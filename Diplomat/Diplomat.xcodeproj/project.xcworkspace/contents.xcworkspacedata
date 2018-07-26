@@ -2,6 +2,6 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "self:Dipomat.xcodeproj">
+      location = "self:/Users/admin/Desktop/Diplomat-Swift/Dipomat/Diplomat.xcodeproj">
    </FileRef>
 </Workspace>
